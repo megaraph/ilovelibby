@@ -6,6 +6,16 @@ body {
     background-color: #fc8eac;
 }
 
+.small-text {
+    font-family: "Nunito";
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 0px;
+}
+
 /* Position the "No" button absolutely within body */
 #noButton {
     position: absolute;
